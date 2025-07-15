@@ -1,0 +1,85 @@
+{
+  "workbench.colorCustomizations": {
+    "gitDecoration.addedResourceForeground": "#0D7377",
+    "gitDecoration.modifiedResourceForeground": "#3F8FEF",
+    "gitDecoration.deletedResourceForeground": "#F25022",
+    "gitDecoration.untrackedResourceForeground": "#A16207",
+    "gitDecoration.ignoredResourceForeground": "#6C7B7F",
+    "gitDecoration.conflictingResourceForeground": "#CC0000",
+    "gitDecoration.submoduleResourceForeground": "#9C59B6",
+    "gitDecoration.stageModifiedResourceForeground": "#3F8FEF",
+    "gitDecoration.stageDeletedResourceForeground": "#F25022",
+    "gitDecoration.renamedResourceForeground": "#FF9500",
+    "gitDecoration.stageAddedResourceForeground": "#0D7377",
+    "gitDecoration.copiedResourceForeground": "#9C59B6",
+    "gitDecoration.stageCopiedResourceForeground": "#9C59B6",
+    "gitDecoration.stageRenamedResourceForeground": "#FF9500",
+    "scm.providerBorder": "#3F8FEF",
+    "scm.historyItemAdditionsForeground": "#0D7377",
+    "scm.historyItemDeletionsForeground": "#F25022",
+    "scm.historyItemStatisticsBorder": "#6C7B7F",
+    "git-graph.graph.colours": [
+      "#3F8FEF",
+      "#0D7377",
+      "#F25022",
+      "#A16207",
+      "#9C59B6",
+      "#FF9500",
+      "#6C7B7F",
+      "#CC0000"
+    ]
+  },
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "variable",
+          "variable.other",
+          "variable.other.readwrite",
+          "variable.parameter"
+        ],
+        "settings": {
+          "foreground": "#C586C0"
+        }
+      }
+    ]
+  },
+  "git.enableSmartCommit": true,
+  "git.confirmSync": false,
+  "git.autofetch": true,
+  "git.showActionButton": {
+    "commit": true,
+    "publish": true,
+    "sync": true
+  },
+  "git.decorations.enabled": true,
+  "git.enableStatusBarSync": true,
+  "git.showInlineOpenFileAction": true,
+  "git.showProgress": true,
+  "git.timeline.showAuthor": true,
+  "git.timeline.showUncommitted": true,
+  "explorer.decorations.colors": true,
+  "explorer.decorations.badges": true,
+  "keyboard.dispatch": "keyCode",
+  "git.contextLines": 3,
+  "git.openRepositoryInParentFolders": "always",
+  "git.showUnpublishedCommits": "always",
+  "git.alwaysShowStagedChangesResourceGroup": true,
+  "git.showCommitInput": true,
+  "git.showPushSuccessNotification": true,
+  "git.showIncomingChanges": true,
+  "git.showOutgoingChanges": true,
+  "git.verboseCommit": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "editor.formatOnSave": true,
+  "terminal.integrated.profiles.windows": {
+    "Git Bash": {
+      "path": "C:\\Program Files\\Git\\bin\\bash.exe",
+      "args": [
+        "--login"
+      ]
+    }
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.29.2"
+}
