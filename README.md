@@ -11,7 +11,51 @@ Decorizer is a modern mobile application that revolutionizes the interior design
 - Offering order management and project tracking
 - Supporting multiple languages (Arabic & English)
 
-## ✨ Demo
+
+## 🎬 Demo Videos
+
+Take a look at Decorizer in action! Here are some demo videos showcasing the app's key features:
+
+<div align="center">
+
+### 📱 User Experience & Features
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>🏠 Auth, Home, Ai Design</strong><br/>
+      <video src="https://github.com/user-attachments/assets/b9402d9b-9c7b-414c-97a7-095ef1b01c3d" width="200" height="400" controls>
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td align="center">
+      <strong>🤖 Create Ad</strong><br/>
+      <video src="https://github.com/user-attachments/assets/5250aa42-6cbd-42e6-9d95-c84cc0abfe6e" width="200" height="400" controls>
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <strong>📋 Worker Apply Offer</strong><br/>
+      <video src="https://github.com/user-attachments/assets/d52efc30-3ffc-4684-affb-453d4b4d3c36" width="200" height="400" controls>
+        Your browser does not support the video tag.
+      </video>
+    </td>
+    <td align="center">
+      <strong>💬 Order cycle and chat</strong><br/>
+      <video src="https://github.com/user-attachments/assets/079c5b29-c0a1-411d-9fb9-501b6cf7547c" width="200" height="400" controls>
+        Your browser does not support the video tag.
+      </video>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+> 
+
+## ✨ Features
 
 ### For Users
 - **AI Design Assistant**: Upload images and get AI-powered design suggestions
@@ -226,31 +270,26 @@ Manual deployment through Xcode or configure Fastlane for automated deployment.
 - Update documentation as needed
 - Ensure all builds pass before submitting PR
 
-## 🎬 Demo Videos
-
-Demo videos will be uploaded soon to showcase the app's features and functionality.
-
 ## 👥 Contributors
 
 ### Mobile Development
-- [Mohamed Emad](https://github.com/Mohamed02Emad) -
-- [Salma Fawzy](https://github.com/SalmaElarabyFawzy) -
+- [Mohamed Emad](https://github.com/Mohamed02Emad) 
+- [Salma Fawzy](https://github.com/SalmaElarabyFawzy) 
 
 ### Backend Development
-- [Ahmed Ghoneim](https://github.com/ahmedghoneim510) -
-- [Norhan Ihab](https://github.com/MiraculouN) -
+- [Ahmed Ghoneim](https://github.com/ahmedghoneim510) 
+- [Norhan Ihab](https://github.com/MiraculouN) 
 
 ### Frontend Development
-- [Bashar Elmetwali](https://github.com/BasharElmetwaliahmed) -
-- [Norhan Magdy](https://github.com/BasharElmetwaliahmed) -
-- Norhan Magdy -
+- [Bashar Elmetwali](https://github.com/BasharElmetwaliahmed) 
+- Norhan Magdy 
 
 ### AI Development
-- [Salma Hafez](https://github.com/SalmaAhmedHafez) -
-- [Aya Hazem](https://github.com/ayahazem6103) -
+- [Salma Hafez](https://github.com/SalmaAhmedHafez) 
+- [Aya Hazem](https://github.com/ayahazem6103) 
 
 ### Design
-- [Manar Elsadaty](https://www.behance.net/manar_elsadaty) - 
+- [Manar Elsadaty](https://www.behance.net/manar_elsadaty) 
 
 ## 🙏 Acknowledgments
 
